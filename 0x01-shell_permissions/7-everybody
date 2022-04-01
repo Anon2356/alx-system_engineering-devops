@@ -1,0 +1,2 @@
+#!/bin/bash
+chmdod a+x ./ hello
